@@ -3309,7 +3309,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 Positioned(
                   top: 15,
                   child: Container(
-                    width: MediaQuery.of(context).size.width * 0.9,
+                    width: MediaQuery.of(context).size.width * 0.8,
                     child: Image(image: AssetImage("images/discordlogo.png")),
                   ),
                 ),
