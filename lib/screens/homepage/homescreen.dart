@@ -3280,7 +3280,7 @@ class _HomeScreenState extends State<HomeScreen> {
               ],
             ),
             SizedBox(
-              height: 20,
+              height: 15,
             ),
             Text("Our Expert Mentors",
                 textAlign: TextAlign.start,
